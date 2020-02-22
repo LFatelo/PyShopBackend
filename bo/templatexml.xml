@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<data>
+    <Product name="1">
+	    <tipo>"book"</tipo>
+	    <prod_type>1</prod_type>
+	    <preco>13.37</preco>
+	    <sku>"AAB-AAA-AAA-AAA-ABA-96656587"</sku>
+	    <pimage>0131809011</pimage>
+	    <updatedby>0</updatedby>
+	    <weight>500</weight>
+	    <dims>"260/180/25"</dims>
+	    <desc>"this is a xml insert"</desc>
+	    <name>"Book Nukem"</name>
+	    <authorid>2</authorid>
+	    <authorid2>"NULL"</authorid2>
+	    <authorid3>"NULL"</authorid3>
+	    <LITgen>"teste"</LITgen>
+	    <LITgen2>"teste2"</LITgen2>
+	    <LITgen3>"teste3"</LITgen3>
+	    <pcompany>"Teste Inc."</pcompany>
+	    <rdate>"2018-07-21"</rdate>
+	    <ednum>1</ednum>
+	    <isbn10>1053535369</isbn10>
+	    <isbn13>1067676767674</isbn13>
+	    <bformat>"paper"</bformat>
+	    <npage>600</npage>
+	    <language>"pt_PT"</language>
+	    <stock>500</stock>
+    </Product>
+    <Product name = "2">
+	    <tipo>"electronic"</tipo>
+	    <prod_type>2</prod_type>
+	    <preco>2000</preco>
+	    <sku>"OHH-JES-USN-G-GH-BBQ1821192"</sku>
+	    <updatedby>0</updatedby>
+	    <weight>10</weight>
+	    <dims>"80/80/10"</dims>
+	    <description>"hello bbq pit boys here"</description>
+	    <name>"True America Smartphone and Grill"</name>
+	    <model>"America"</model>
+	    <tspecs>"XML insert test. BURGERS"</tspecs>
+	    <rdate>"2017-07-21"</rdate>
+	    <stock>30</stock>
+    </Product>
+</data>
