@@ -11,15 +11,6 @@ import xml.etree.ElementTree as ET
 conn = None
 cursor = None
 
-#cursor.callproc('AddAuthor', ("Louis Cypher", "Louisa Ferre", "1966-06-06", "Totally not a demon"))
-#cursor.execute("""
-#EXEC AddAuthor 'Louisa Ferre',
-#'Louis Cypher',
-#'1966-06-06',
-#'Totally not a demon'
-#""")
-#conn.commit()
-
 
 #   USER MANAGEMENT     #
 def UserManage():
